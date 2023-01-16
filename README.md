@@ -5,7 +5,7 @@ The following tasks were required to resolve the challenge:
 * Add exceptions, validation, and security infrastructure to the design (OAuth2 wiht JWT token & refresh token).
 * Implement the endpoint shown below.
     
-    GET /users/profile (must show ONLY the data from authenticated user)
+    _GET /users/profile_  (must show ONLY the data from authenticated user)
     
     
  The conceptual model is shown below:
