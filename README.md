@@ -12,3 +12,11 @@ The following tasks were required to resolve the challenge:
  
  ![](https://rgiovann.github.io/image-repo/bds_05_concept.jpg)
     
+The project was developed using ___TDD___ (*Test Driven Development*) methodology, Junit test cases are implemented in the following files (src/test/java):
+
+-   _UserControllerIT.java_
+-   _GenreTests.java_
+-   _MovieTests.java_
+-   _ReviewTests.java_
+-   _UserTests.java_
+-   _RoleTests.java_
