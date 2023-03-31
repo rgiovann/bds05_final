@@ -1,4 +1,4 @@
-### This project is a requirement to grant finish of module 04 (Domain, ORM and authorizations) from Backend (Spring Boot) course from https://devsuperior.com.br/
+### This project is a requirement to be completed module 04 (Domain, ORM and authorizations) from Backend (Spring Boot) course issued by https://devsuperior.com.br/
 
 The following tasks were required to resolve the challenge:
 * Implement the proposed conceptual model, with database seed.
